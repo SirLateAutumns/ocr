@@ -1,0 +1,6 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+
+# Ignore special directory
+banks_discounts_data/
